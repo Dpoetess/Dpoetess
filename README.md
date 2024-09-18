@@ -1,4 +1,6 @@
+![github-header-Lynn](https://github.com/user-attachments/assets/7fe7afcc-098e-4336-bf78-fb71ae8e752c)
 # 💫 About Me:
+
 I'm a driven and detail-oriented communications professional with a background in audiovisual production and partner relations. I've recently had the opportunity to immerse myself in the tech sector and have eagerly embraced it, aiming to apply my communication skills, curiosity, and passion for data-driven problem-solving. Currently, I’m enrolled in the Factoria F5 bootcamp to become a full-stack developer. I’ve started building a family tree application, a personal project that combines my passion for creating meaningful, user-friendly tools. I’m excited about this journey and the possibilities it brings!
 
 
